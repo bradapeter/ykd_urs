@@ -1,0 +1,17 @@
+{
+    "title" : "一块地软件平台需求规格说明书",
+    "description" : "记录一块地业务流程、功能规划及备忘",
+    "author" : "姚海生",
+    "generator": "site",
+    "language" : "zh-hans",
+    "gitbook" : ">=2.3.0",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://www.51ykd.com"
+        }
+    },
+   "plugins": ["mermaid-gb3"
+   ],
+    "pluginsConfig": {        
+    }
+}
